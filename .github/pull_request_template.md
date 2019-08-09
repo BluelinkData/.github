@@ -12,4 +12,4 @@
 * [ ]
 
 ## Due by
-ASAP
+EOD
