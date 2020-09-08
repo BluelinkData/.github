@@ -1,4 +1,6 @@
-## [TICKET-#](https://solidarityco.atlassian.net/browse/TICKET-#)
+## External Context
+
+https://solidarityco.atlassian.net/browse/TICKET-#
 
 **PR Dependencies:** N/A
 
