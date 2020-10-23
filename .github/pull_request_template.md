@@ -11,9 +11,11 @@ https://solidarityco.atlassian.net/browse/TICKET-####
 ## Notes
 
 ## Test Plan
+
 * [ ]
 * [ ]
 * [ ]
 
 ## Due by
+
 EOD
