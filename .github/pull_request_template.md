@@ -12,6 +12,6 @@ https://solidarityco.atlassian.net/browse/BLUE-####
 
 ## Test Plan
 
-* [ ]
-* [ ]
-* [ ]
+*
+*
+*
