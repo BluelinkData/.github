@@ -15,7 +15,3 @@ https://solidarityco.atlassian.net/browse/BLUE-####
 * [ ]
 * [ ]
 * [ ]
-
-## Due by
-
-EOD
